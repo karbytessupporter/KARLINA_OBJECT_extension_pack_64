@@ -1,0 +1,70 @@
+/**
+ * file: journal_karbytes_20may2026_p1.txt
+ * type: plain-text
+ * date: 16_MAY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+The video file of karbytes named obs_studio_recording_16may2026_p0.mp4 is meant to simulate karbytes' sleeping/recovery period after karbytes went for a night hike in The Big Green Thing (after karbytes learned that it was fired from its job and after karbytes made a ChatGPT conversation transcript discussing that matter). karbytes enjoyed the "decompression" of physical exertion and immersion in karbytes' favorite local wilderness region. After that, karbytes stopped at its dad's house to pick up the metal safe which karbytes ordered from Amazon dot Com (and which karbytes will be using to bury the fourth KARBYTES time capsule (which features the completed version of KARBYTES named karbytes2026_3)). While karbytes was at that house, Brea the cat and karbytes cuddled for approximately ten minutes. (Brea sat on karbytes' lap and then climbed onto karbytes' shoulders to "hug" karbytes head-to-head). After that, Brea asked to be let outside so karbytes opened the front door to let Brea walk out (and, as usual, Brea hesitated before going all the way through the door because she was sniffing the environment and surveying her surroundings before venturing outside). Meanwhile, karbytes was in its room unpacking the box, flattening the cardboard packaging, putting the cardboard in the recycling bin, and then carrying the metal safe outside to take to karbytes' mom's house where the time capsule is expected to be buried.
+
+Anyway, that MP4 file named obs_studio_recording_16may2026_p0.mp4 was compressed down to less than 25 megabytes so that it could be uploaded to a GitHub repository (and 25 megabytes per file or per batch file upload seems to be the upper limit for non-command-line file uploads to GitHub). The compression process unfortunately removed some of the visual details in that video which showed the sound track names being used in that video and, also, the .onion web page address karbytes routinely tests by visiting via the Tor dark web browser and playing with some of the web applications in the respective dark website (whose root directory is that .onion web page address).
+
+The video is "supposed to" show karbytes opening up a plain-text file on its primary (non-server) laptop computer named mo_onion.txt (and, on another laptop is a file named me_onion.txt) and copy-pasting the .onion address in that file into the search terms and web address field of the Tor browser.
+
+mo_onion.txt contains only the following .onion web page address:
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/
+
+me_onion.txt contains only the following .onion web page address:
+
+http://ijnqld5dkly6cpvds37nap7n7n5f2tjc4e623b3x7dkzh563wpj6v4yd.onion/
+
+While karbytes was sleeping after that "decompression" phase in the wilderness, karbytes was listening to the ongoing looping sound of the laptop in the "basement room" at karbytes' mom's house (and that laptop is the server of the aforementioned .onion website). As a routine practice, karbytes has KARBYTES_BLOG_APPS/SOUND_TRACK_LOOP_COUNTER_THREE (of that .onion website) playing amplifier_original_mix_(hardtrance_1995)_by_macrocosm_downloaded_by_karbytes_26march2025.mp3 on loop to signify that the server is powered on (and to give the encompassing space what karbytes' feels is a familiar, comforting, and personalized aesthetic).
+
+That sound track's respective MP4 file is available to download from KARBYTES at the following web address:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_34/main/amplifier_original_mix_(hardtrance_1995)_by_macrocosm_downloaded_by_karbytes_26march2025.mp4
+
+Along with listening to the sound of that .onion server playing that looping techno song was karbytes' smartphone playing two looping sound tracks which karbytes finds to be relaxing and remiscent of being at some kind of spa or meditation room in some kind of magical retreat center in some magical untouchable expanse of wilderness (based off of The Big Green Thing).
+
+Details about what constitutes The Big Green Thing is available at the following web address: 
+
+https://karbytesforlifeblog.wordpress.com/the_big_green_thing/
+
+Details about what karbytes' idyllic retreat center (and residence) might look like is available at the following web address:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_10may2025/
+
+Anyway, the web application karbytes was using to play the "spa music" is available at the following web address:
+
+https://karbytessupporter.github.io/SOUND_TRACK_LOOP_COUNTER_THREE_github_hosted_website/
+
+The two "songs" karbytes selected to play (and showcase in the aforementioned obs_studio_recording_16may2026_p0.mp4 video) are available to download at the following web addresses:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_34/main/plaintive_droning_by_karbytes_17march2025_p0.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_49/main/432_hz_%7C_dna_repair_%7C_powerful_third_eye_opening_binaural_beat_%7C_relaxation_sleep_music_7_chakras_by_infinite_waters_ralf_smart_[released:_24may2017].mp4
+
+This journal entry is meant to capture some essential features of karbytes' intended hiatus experiences. This journal also happens to be part of the files created during a particularly potent hiatus period which started on 15_MAY_2026 and may possibly continue until 01_SEPTEMBER_2026 at the lastest. 
+
+During a hiatus phase, karbytes does zero (or very few) edits to the canon KARBYTES (i.e. the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com and the files those websites link to which are either hosted on @karlinarayberinger's public GitHub repositories or else are embedded images in the respective WordPress dot Com web pages). What karbytes does do is create and edit files which are temporarily hosted in a GitHub repository named projects under the GitHub username @informationcrystals. Once that batch of "hiatus files" is deemed by karbytes to be ready to incorporate into the canon KARBYTES, karbytes renames the projects repository to include the current date and time, archives that repository, sets it to private, and creates a new "history free" public projects repository so that it is ready for the next "hiatus phase" of KARBYTES.
+
+Details about that "hiatus phase" curation process is available at the following web address:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_workflow_established_05august2025/
+
+Thank you for taking the time to visit some of the KARBYTES file collection. I hope you gleaned something of value from your visit.
+
+Sincerely,
+karbytes
+
+Post Script: I forgot to include the additional sound track file which was being played from the dark web version of SOUND_TRACK_LOOP_COUNTER_THREE whose respective MP4 file is available to download from the following Uniform Resource Locator (during the making of obs_studio_recording_16may2026_p0.mp4):
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_21/main/unlock_akashic_records_%F0%9F%92%AB_remember_mastery_%F0%9F%8C%88_ultra_shamanic_drums_[abridged_to_ten_minutes]_lokosmotives_2018_downloaded_by_karbytes_27september2024.mp4
+
+Post Script Continued: I also forgot to include the additional sound track file which was being played from the dark web version of SOUND_TRACK_LOOP_COUNTER_TWO whose respective MP4 file is available to download from the following Uniform Resource Locator (during the making of obs_studio_recording_16may2026_p0.mp4):
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/frogs_croaking_in_castro_valley_california_21_april_2022.mp4
